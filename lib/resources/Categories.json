@@ -1,0 +1,126 @@
+{
+    "Fresh Produce": [
+        "Fruits",
+        "Vegetables"
+    ],
+    "Dairy and Eggs": [
+        "Milk",
+        "Cheese",
+        "Yogurt",
+        "Butter",
+        "Eggs"
+    ],
+    "Bakery": [
+        "Bread",
+        "Rolls and buns",
+        "Pastries",
+        "Cakes",
+        "Bagels"
+    ],
+    "Meat and Seafood": [
+        "Beef",
+        "Chicken",
+        "Pork",
+        "Fish",
+        "Seafood"
+    ],
+    "Frozen Foods": [
+        "Frozen vegetables",
+        "Frozen meals",
+        "Ice cream",
+        "Frozen pizza",
+        "Frozen desserts"
+    ],
+    "Canned and Jarred Goods": [
+        "Canned vegetables",
+        "Canned fruits",
+        "Soups",
+        "Canned meats",
+        "Pickles and condiments"
+    ],
+    "Pasta Rice and Grains": [
+        "Pasta",
+        "Rice",
+        "Quinoa",
+        "Oats",
+        "Cereals"
+    ],
+    "Baking and Cooking Supplies": [
+        "Flour",
+        "Sugar",
+        "Baking powder",
+        "Cooking oil",
+        "Spices and seasonings"
+    ],
+    "Condiments and Sauces": [
+        "Ketchup",
+        "Mustard",
+        "Mayonnaise",
+        "Salad dressings",
+        "BBQ sauce"
+    ],
+    "Snacks": [
+        "Chips",
+        "Popcorn",
+        "Nuts",
+        "Crackers",
+        "Dried fruits"
+    ],
+    "Beverages": [
+        "Water",
+        "Soft drinks",
+        "Juice",
+        "Coffee",
+        "Tea"
+    ],
+    "Cereal and Breakfast Foods": [
+        "Cereals",
+        "Oatmeal",
+        "Pancake mix",
+        "Syrup"
+    ],
+    "Canned and Packaged Meals": [
+        "Canned soups",
+        "Instant noodles",
+        "Microwavable meals",
+        "Packaged dinner mixes",
+        "Jarred pasta sauce"
+    ],
+    "Household and Cleaning Supplies": [
+        "Paper towels",
+        "Dish soap",
+        "Laundry detergent",
+        "Trash bags",
+        "Cleaning products"
+    ],
+    "Personal Care and Health": [
+        "Shampoo and conditioner",
+        "Soap",
+        "Toothpaste",
+        "Vitamins",
+        "Over-the-counter medicines"
+    ],
+    "Pet Supplies": [
+        "Pet food",
+        "Pet treats",
+        "Cat litter",
+        "Pet toys",
+        "Flea and tick products"
+    ],
+    "Alcohol": [
+        "Beer",
+        "Wine",
+        "Spirits"
+    ],
+    "International Foods": [
+        "Ethnic foods",
+        "Spices and seasonings",
+        "Imported goods"
+    ],
+    "Organic and Health Foods": [
+        "Organic produce",
+        "Health food products",
+        "Gluten-free items",
+        "Vegan and vegetarian options"
+    ]
+}

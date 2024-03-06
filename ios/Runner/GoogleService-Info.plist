@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>766707208340-3uci2r7qlaj5r1o7m6upgg3gtvcjd3ud.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.766707208340-3uci2r7qlaj5r1o7m6upgg3gtvcjd3ud</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>766707208340-c6gh9mp72jljnacsv7jpr3fpjovba6hk.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDrXOdvgds6IVwtfhk9c-uR0hrr4k60SeY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>766707208340</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.crumbsFlutter1</string>
+	<key>PROJECT_ID</key>
+	<string>crumbs-1ca81</string>
+	<key>STORAGE_BUCKET</key>
+	<string>crumbs-1ca81.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:766707208340:ios:2ac8d2ee230294f8882481</string>
+	<key>DATABASE_URL</key>
+	<string>https://crumbs-1ca81-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

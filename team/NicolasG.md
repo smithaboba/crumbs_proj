@@ -1,0 +1,3 @@
+- Hello! My name is Nic and I'm a 4th-year CS student.
+- I have some experience with React (project experience and from 156) but I am still a novice when it comes to frontend. 
+  - Hopefully Flutter will be educational!

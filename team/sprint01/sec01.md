@@ -1,0 +1,28 @@
+Attendance: ✅
+- Ryan:
+  - What you've been working on:
+  - What you're planning to work on:
+    - setting up flutter on their machine
+  - Blockers:
+- Isaac:
+  - What you've been working on:
+    - Looking into which backend technology would work best with Flutter (probably Firebase) 
+  - What you're planning to work on:
+    - setting up flutter on their machine
+  - Blockers:
+- Nic:
+  - What you've been working on:
+  - What you're planning to work on:
+    - setting up flutter on their machine
+  - Blockers:
+- Matt:
+  - What you've been working on: 
+    - I working on getting to know Flutter Better
+  - What you're planning to work on: 
+    - setting up flutter on their machine
+  - Blockers:
+- Zixiao:
+  - What you've been working on:
+  - What you're planning to work on:
+    - setting up flutter on their machine
+  - Blockers:
